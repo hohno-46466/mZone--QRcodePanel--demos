@@ -13,3 +13,4 @@ Some demonstrations using  QRcode Panel
      
      3 directories, 4 files (Sun Jun  5 23:24:09 JST 2022)
 
+-EOF-
