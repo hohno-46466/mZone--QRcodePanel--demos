@@ -3,14 +3,16 @@
 Some demonstrations using  QRcode Panel
 
     ./mZone--QRcodePanel--demos
-     ├── README.md
-     ├── memo
-     │   └── README.md
-     ├── misc
-     │   └── README.md
-     └── scripts
-         └── README.md
+     ├──  README.md
+     ├──  README.md.old
+     ├──  memo/
+     │   └──  README.md
+     ├──  misc/
+     │   └──  README.md
+     └──  scripts/
+         └──  README.md
      
-     3 directories, 4 files (Sun Jun  5 23:24:09 JST 2022)
+     3 directories, 5 files (Sun Aug 14 23:17:58 JST 2022)
+
 
 -EOF-
