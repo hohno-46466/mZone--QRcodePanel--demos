@@ -2,7 +2,7 @@
 
 Some demonstrations using  QRcode Panel
 
-     ./mZone--QRcodePanel--demos
+    ./mZone--QRcodePanel--demos
      ├──  README.md
      ├──  README.md.old
      ├──  memo/
