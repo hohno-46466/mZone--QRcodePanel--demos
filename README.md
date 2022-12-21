@@ -2,7 +2,7 @@
 
 Some demonstrations using  QRcode Panel
 
-     ./mZone--QRcodePanel--demos
+    ./mZone--QRcodePanel--demos
      ├──  README.md
      ├──  README.md.old
      ├──  memo/
@@ -12,7 +12,7 @@ Some demonstrations using  QRcode Panel
      └──  scripts/
          └──  README.md
      
-     3 directories, 5 files (Tue Dec 20 21:47:44 JST 2022)
+     3 directories, 5 files (Thu Dec 22 04:09:35 JST 2022)
 
 
 -EOF-
