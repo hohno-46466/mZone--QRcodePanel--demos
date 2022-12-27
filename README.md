@@ -12,7 +12,7 @@ Some demonstrations using  QRcode Panel
      └──  scripts/
          └──  README.md
      
-     3 directories, 5 files (Mon Dec 26 23:54:54 JST 2022)
+     3 directories, 5 files (Tue Dec 27 22:45:42 JST 2022)
 
 
 -EOF-
